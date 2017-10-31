@@ -1,11 +1,12 @@
 # fec_data
+This project processes election finance data in the form of text files into 2 smaller cleaner text files.
 
 # Table of Contents
-1 Introduction / Background
-2 Getting Started / Prerequisites
-3 Input
-4 Output
-5 Run Instructions
+1) Introduction / Background
+2) Getting Started / Prerequisites
+3) Input
+4) Output
+5) Run Instructions
 
 # Introduction / Background
 
