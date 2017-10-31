@@ -1,13 +1,11 @@
 # fec_data
 
 # Table of Contents
-1. Introduction / Background
-2. Getting Started / Prerequisites
-3. Input
-4. Output
-5. Run Instructions
-6. General Approach
-7. Misc Comments
+1 Introduction / Background
+2 Getting Started / Prerequisites
+3 Input
+4 Output
+5 Run Instructions
 
 # Introduction / Background
 
@@ -48,5 +46,4 @@ Once Ruby is downloaded and the repository has been cloned or downloaded, runnin
 run.sh
 
 This will call the shell script that will find and run the Ruby script (find_political_donors.rb) in the src file. This shell script will also find the input text file named "itcont.txt" within the input folder and the outputs within the output folder named "medianvals_by_zip.txt" and "medianvals_by_date.txt" and print to those output files.
-
 
